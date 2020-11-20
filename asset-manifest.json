@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/formhub/static/css/main.42674da5.chunk.css",
-    "main.js": "/formhub/static/js/main.5308f459.chunk.js",
-    "main.js.map": "/formhub/static/js/main.5308f459.chunk.js.map",
+    "main.js": "/formhub/static/js/main.ca6b48e0.chunk.js",
+    "main.js.map": "/formhub/static/js/main.ca6b48e0.chunk.js.map",
     "runtime-main.js": "/formhub/static/js/runtime-main.fef2109b.js",
     "runtime-main.js.map": "/formhub/static/js/runtime-main.fef2109b.js.map",
     "static/css/2.43b2b750.chunk.css": "/formhub/static/css/2.43b2b750.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.43b2b750.chunk.css",
     "static/js/2.fbe8d720.chunk.js",
     "static/css/main.42674da5.chunk.css",
-    "static/js/main.5308f459.chunk.js"
+    "static/js/main.ca6b48e0.chunk.js"
   ]
 }
